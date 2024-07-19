@@ -1,0 +1,350 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Outcome Variable,Gender_female,Gender_male,Blood Pressure_high,Blood Pressure_low,Blood Pressure_normal,Cholesterol Level_high,Cholesterol Level_low,Cholesterol Level_normal
+Influenza,1,0,1,1,0.0,positive,True,False,False,True,False,False,False,True
+Common Cold,0,1,1,0,0.08450704225352118,negative,True,False,False,False,True,False,False,True
+Eczema,0,1,1,0,0.08450704225352118,negative,True,False,False,False,True,False,False,True
+Asthma,1,1,0,1,0.08450704225352118,positive,False,True,False,False,True,False,False,True
+Asthma,1,1,0,1,0.08450704225352118,positive,False,True,False,False,True,False,False,True
+Eczema,1,0,0,0,0.08450704225352118,positive,True,False,False,False,True,False,False,True
+Influenza,1,1,1,1,0.08450704225352118,positive,True,False,False,False,True,False,False,True
+Influenza,1,1,1,1,0.08450704225352118,positive,True,False,False,False,True,False,False,True
+Hyperthyroidism,0,1,0,0,0.1267605633802817,negative,True,False,False,False,True,False,False,True
+Hyperthyroidism,0,1,0,0,0.1267605633802817,negative,True,False,False,False,True,False,False,True
+Asthma,1,0,0,1,0.1267605633802817,positive,False,True,True,False,False,False,False,True
+Allergic Rhinitis,0,1,1,0,0.14084507042253522,negative,True,False,False,False,True,False,True,False
+Anxiety Disorders,0,1,0,0,0.14084507042253522,negative,True,False,False,False,True,True,False,False
+Common Cold,0,0,0,0,0.14084507042253522,negative,True,False,False,True,False,False,False,True
+Diabetes,0,0,0,0,0.14084507042253522,negative,False,True,False,True,False,False,False,True
+Gastroenteritis,0,1,0,0,0.14084507042253522,negative,True,False,False,False,True,False,False,True
+Pancreatitis,1,0,0,0,0.14084507042253522,negative,True,False,True,False,False,False,False,True
+Rheumatoid Arthritis,0,1,1,1,0.14084507042253522,negative,True,False,True,False,False,True,False,False
+Depression,1,1,1,1,0.14084507042253522,positive,False,True,True,False,False,False,False,True
+Liver Cancer,1,1,1,1,0.14084507042253522,positive,True,False,False,False,True,False,False,True
+Stroke,1,1,1,1,0.14084507042253522,positive,True,False,False,False,True,False,False,True
+Urinary Tract Infection,1,1,1,0,0.14084507042253522,positive,False,True,True,False,False,True,False,False
+Dengue Fever,1,0,1,0,0.15492957746478875,negative,True,False,False,False,True,False,False,True
+Dengue Fever,1,0,1,0,0.15492957746478875,negative,True,False,False,False,True,False,False,True
+Eczema,0,1,1,0,0.15492957746478875,negative,False,True,True,False,False,True,False,False
+Gastroenteritis,1,1,1,0,0.15492957746478875,negative,False,True,True,False,False,True,False,False
+Hepatitis,1,1,1,1,0.15492957746478875,negative,False,True,True,False,False,False,False,True
+Kidney Cancer,0,0,1,0,0.15492957746478875,negative,False,True,False,False,True,False,False,True
+Migraine,1,0,0,0,0.15492957746478875,negative,True,False,False,False,True,False,False,True
+Migraine,0,1,1,0,0.15492957746478875,negative,True,False,False,False,True,False,False,True
+Muscular Dystrophy,0,0,1,0,0.15492957746478875,negative,False,True,True,False,False,True,False,False
+Sinusitis,0,1,1,0,0.15492957746478875,negative,False,True,False,False,True,False,False,True
+Ulcerative Colitis,1,1,0,0,0.15492957746478875,negative,True,False,False,False,True,False,False,True
+Ulcerative Colitis,0,1,1,0,0.15492957746478875,negative,True,False,False,False,True,False,False,True
+Asthma,1,1,0,1,0.15492957746478875,positive,True,False,False,False,True,False,False,True
+Asthma,1,1,0,1,0.15492957746478875,positive,True,False,False,False,True,False,False,True
+Asthma,1,1,1,1,0.15492957746478875,positive,True,False,False,False,True,False,False,True
+Bipolar Disorder,0,0,1,0,0.15492957746478875,positive,True,False,True,False,False,True,False,False
+Bronchitis,1,1,0,1,0.15492957746478875,positive,True,False,False,True,False,False,False,True
+Bronchitis,1,1,1,1,0.15492957746478875,positive,False,True,True,False,False,True,False,False
+Bronchitis,1,1,1,1,0.15492957746478875,positive,False,True,True,False,False,True,False,False
+Cerebral Palsy,0,0,1,1,0.15492957746478875,positive,True,False,False,False,True,False,False,True
+Colorectal Cancer,0,0,1,0,0.15492957746478875,positive,True,False,False,False,True,True,False,False
+Eczema,1,0,0,0,0.15492957746478875,positive,False,True,True,False,False,True,False,False
+Hypertensive Heart Disease,0,0,1,0,0.15492957746478875,positive,True,False,True,False,False,True,False,False
+Influenza,1,1,1,0,0.15492957746478875,positive,False,True,True,False,False,False,False,True
+Influenza,1,1,1,1,0.15492957746478875,positive,True,False,False,False,True,False,False,True
+Multiple Sclerosis,0,0,1,0,0.15492957746478875,positive,True,False,True,False,False,True,False,False
+Myocardial Infarction (Heart...,1,1,1,1,0.15492957746478875,positive,True,False,True,False,False,True,False,False
+Urinary Tract Infection (UTI),1,0,0,0,0.15492957746478875,positive,True,False,False,False,True,False,False,True
+Asthma,0,0,0,1,0.16901408450704228,negative,False,True,False,False,True,False,True,False
+Osteoporosis,0,0,0,1,0.16901408450704228,negative,False,True,False,True,False,False,False,True
+Common Cold,1,0,1,1,0.16901408450704228,positive,False,True,True,False,False,True,False,False
+Migraine,1,0,0,0,0.16901408450704228,positive,True,False,False,False,True,False,False,True
+Pneumonia,1,0,1,1,0.1830985915492958,positive,True,False,True,False,False,False,False,True
+Allergic Rhinitis,0,0,1,0,0.22535211267605634,negative,True,False,False,False,True,False,True,False
+Asthma,0,1,1,1,0.22535211267605634,negative,True,False,False,False,True,True,False,False
+Asthma,1,1,1,1,0.22535211267605634,negative,True,False,False,False,True,False,False,True
+Asthma,0,1,1,1,0.22535211267605634,negative,True,False,True,False,False,False,False,True
+Asthma,0,1,1,1,0.22535211267605634,negative,True,False,True,False,False,False,False,True
+Atherosclerosis,0,0,1,0,0.22535211267605634,negative,False,True,False,False,True,False,False,True
+Chronic Obstructive Pulmonary...,1,1,1,1,0.22535211267605634,negative,False,True,False,False,True,False,False,True
+Common Cold,1,1,1,0,0.22535211267605634,negative,False,True,True,False,False,False,False,True
+Eczema,0,1,0,0,0.22535211267605634,negative,False,True,True,False,False,False,False,True
+Epilepsy,0,0,1,0,0.22535211267605634,negative,False,True,True,False,False,True,False,False
+Hypertension,1,1,1,0,0.22535211267605634,negative,True,False,True,False,False,False,False,True
+Hyperthyroidism,1,1,1,0,0.22535211267605634,negative,True,False,False,False,True,False,False,True
+Obsessive-Compulsive Disorde...,0,0,1,0,0.22535211267605634,negative,False,True,False,False,True,False,False,True
+Pneumonia,1,1,1,1,0.22535211267605634,negative,True,False,False,False,True,False,False,True
+Pneumonia,1,1,1,1,0.22535211267605634,negative,True,False,False,False,True,False,False,True
+Psoriasis,1,0,0,0,0.22535211267605634,negative,True,False,False,False,True,False,True,False
+Psoriasis,0,1,1,0,0.22535211267605634,negative,True,False,False,False,True,False,True,False
+Rubella,1,0,1,0,0.22535211267605634,negative,True,False,True,False,False,False,False,True
+Rubella,1,0,1,0,0.22535211267605634,negative,True,False,True,False,False,False,False,True
+Urinary Tract Infection (UTI),0,1,1,0,0.22535211267605634,negative,False,True,True,False,False,True,False,False
+Asthma,1,1,0,1,0.22535211267605634,positive,False,True,False,False,True,False,False,True
+Asthma,1,1,0,1,0.22535211267605634,positive,False,True,False,False,True,False,False,True
+Cirrhosis,0,0,1,0,0.22535211267605634,positive,True,False,False,False,True,True,False,False
+Conjunctivitis (Pink Eye),0,1,0,0,0.22535211267605634,positive,True,False,True,False,False,True,False,False
+Depression,0,0,1,0,0.22535211267605634,positive,True,False,False,False,True,True,False,False
+Gastroenteritis,1,0,1,1,0.22535211267605634,positive,False,True,False,True,False,True,False,False
+Hyperthyroidism,1,1,1,0,0.22535211267605634,positive,False,True,True,False,False,True,False,False
+Hyperthyroidism,1,1,1,0,0.22535211267605634,positive,False,True,True,False,False,True,False,False
+Kidney Cancer,0,0,1,0,0.22535211267605634,positive,False,True,True,False,False,True,False,False
+Liver Cancer,0,0,1,0,0.22535211267605634,positive,True,False,True,False,False,True,False,False
+Liver Disease,0,0,1,0,0.22535211267605634,positive,False,True,True,False,False,True,False,False
+Malaria,1,0,0,0,0.22535211267605634,positive,False,True,True,False,False,True,False,False
+Malaria,1,0,0,0,0.22535211267605634,positive,False,True,True,False,False,True,False,False
+Migraine,0,1,1,0,0.22535211267605634,positive,False,True,True,False,False,True,False,False
+Migraine,1,0,0,0,0.22535211267605634,positive,False,True,True,False,False,True,False,False
+Pancreatitis,0,0,1,0,0.22535211267605634,positive,False,True,False,False,True,True,False,False
+Rheumatoid Arthritis,1,1,1,0,0.22535211267605634,positive,False,True,False,False,True,False,True,False
+Rheumatoid Arthritis,0,0,1,0,0.22535211267605634,positive,True,False,False,False,True,False,True,False
+Spina Bifida,0,0,1,0,0.22535211267605634,positive,True,False,False,False,True,False,False,True
+Ulcerative Colitis,0,0,1,0,0.22535211267605634,positive,False,True,True,False,False,True,False,False
+Ulcerative Colitis,1,0,0,0,0.22535211267605634,positive,False,True,True,False,False,True,False,False
+Urinary Tract Infection,1,0,1,0,0.22535211267605634,positive,True,False,False,False,True,True,False,False
+Allergic Rhinitis,0,1,0,0,0.2676056338028169,negative,True,False,False,True,False,False,False,True
+Depression,0,0,0,0,0.2676056338028169,negative,True,False,False,False,True,True,False,False
+Gastroenteritis,0,0,0,0,0.2676056338028169,negative,False,True,False,False,True,False,True,False
+Influenza,0,0,0,0,0.2676056338028169,negative,False,True,False,False,True,False,False,True
+Kidney Disease,0,0,1,0,0.2676056338028169,negative,True,False,False,True,False,False,False,True
+Liver Cancer,1,1,0,0,0.2676056338028169,negative,True,False,True,False,False,False,False,True
+Liver Disease,0,1,0,1,0.2676056338028169,negative,False,True,False,True,False,False,False,True
+Osteoporosis,0,1,0,0,0.2676056338028169,negative,True,False,False,False,True,True,False,False
+Stroke,1,1,0,0,0.2676056338028169,negative,True,False,True,False,False,False,False,True
+Anxiety Disorders,1,0,1,1,0.2676056338028169,positive,False,True,True,False,False,True,False,False
+Diabetes,1,0,1,1,0.2676056338028169,positive,False,True,True,False,False,False,True,False
+Migraine,1,1,0,0,0.2676056338028169,positive,False,True,True,False,False,True,False,False
+Osteoarthritis,1,1,1,0,0.2676056338028169,positive,False,True,True,False,False,True,False,False
+Pneumonia,1,1,1,1,0.2676056338028169,positive,False,True,False,False,True,False,False,True
+Klinefelter Syndrome,0,0,1,0,0.28169014084507044,positive,True,False,False,False,True,False,False,True
+Acne,0,0,1,0,0.29577464788732394,negative,False,True,False,False,True,False,False,True
+Brain Tumor,0,0,1,0,0.29577464788732394,negative,False,True,False,False,True,False,False,True
+Bronchitis,0,1,0,1,0.29577464788732394,negative,True,False,False,False,True,False,False,True
+Cystic Fibrosis,0,0,1,1,0.29577464788732394,negative,False,True,True,False,False,True,False,False
+Diabetes,1,0,0,0,0.29577464788732394,negative,True,False,True,False,False,True,False,False
+Glaucoma,0,0,1,0,0.29577464788732394,negative,False,True,True,False,False,False,False,True
+Osteoarthritis,0,0,1,0,0.29577464788732394,negative,False,True,True,False,False,False,False,True
+Rabies,1,1,0,0,0.29577464788732394,negative,True,False,True,False,False,False,False,True
+Rabies,1,1,0,0,0.29577464788732394,negative,True,False,True,False,False,False,False,True
+Asthma,1,0,1,0,0.29577464788732394,positive,False,True,False,True,False,False,False,True
+Asthma,1,1,0,1,0.29577464788732394,positive,True,False,False,False,True,False,False,True
+Asthma,1,1,0,1,0.29577464788732394,positive,True,False,False,False,True,False,False,True
+Asthma,0,0,1,1,0.29577464788732394,positive,False,True,True,False,False,True,False,False
+Asthma,1,0,1,1,0.29577464788732394,positive,False,True,False,False,True,True,False,False
+Asthma,1,0,1,1,0.29577464788732394,positive,False,True,False,False,True,True,False,False
+Chickenpox,0,1,0,0,0.29577464788732394,positive,False,True,False,False,True,True,False,False
+Chickenpox,0,1,0,0,0.29577464788732394,positive,False,True,False,False,True,True,False,False
+Coronary Artery Disease,0,0,1,0,0.29577464788732394,positive,True,False,True,False,False,True,False,False
+"Eating Disorders (Anorexia,...",0,0,1,0,0.29577464788732394,positive,True,False,True,False,False,True,False,False
+Fibromyalgia,0,0,1,0,0.29577464788732394,positive,True,False,True,False,False,True,False,False
+Gastroenteritis,1,1,1,0,0.29577464788732394,positive,False,True,True,False,False,True,False,False
+Hemophilia,0,0,1,0,0.29577464788732394,positive,True,False,False,False,True,False,False,True
+Hyperthyroidism,0,0,1,0,0.29577464788732394,positive,False,True,True,False,False,True,False,False
+Hypoglycemia,0,0,1,0,0.29577464788732394,positive,True,False,True,False,False,True,False,False
+Lymphoma,0,1,0,0,0.29577464788732394,positive,True,False,False,False,True,True,False,False
+Pneumonia,1,1,1,1,0.29577464788732394,positive,True,False,False,False,True,True,False,False
+Psoriasis,0,1,1,0,0.29577464788732394,positive,False,True,True,False,False,False,False,True
+Psoriasis,1,0,0,0,0.29577464788732394,positive,False,True,True,False,False,False,False,True
+Psoriasis,0,1,0,0,0.29577464788732394,positive,True,False,False,False,True,True,False,False
+Tuberculosis,1,1,1,1,0.29577464788732394,positive,False,True,True,False,False,True,False,False
+Tuberculosis,1,1,1,1,0.29577464788732394,positive,False,True,True,False,False,True,False,False
+Anxiety Disorders,0,0,0,0,0.323943661971831,negative,False,True,False,True,False,False,False,True
+Common Cold,1,1,0,0,0.323943661971831,negative,True,False,True,False,False,True,False,False
+Depression,1,0,0,1,0.323943661971831,negative,False,True,True,False,False,False,False,True
+Influenza,0,1,0,0,0.323943661971831,negative,True,False,False,False,True,True,False,False
+Kidney Cancer,1,0,0,0,0.323943661971831,negative,True,False,False,False,True,False,False,True
+Liver Cancer,1,0,1,1,0.323943661971831,negative,False,True,False,False,True,False,True,False
+Liver Disease,1,0,0,1,0.323943661971831,negative,True,False,False,False,True,False,False,True
+Lung Cancer,1,0,1,1,0.323943661971831,negative,False,True,False,False,True,False,True,False
+Migraine,1,1,1,0,0.323943661971831,negative,False,True,True,False,False,True,False,False
+Osteoarthritis,0,0,1,0,0.323943661971831,negative,False,True,False,False,True,False,True,False
+Stroke,1,0,1,0,0.323943661971831,negative,False,True,False,False,True,False,True,False
+Urinary Tract Infection,0,1,1,1,0.323943661971831,negative,True,False,False,False,True,False,True,False
+Diabetes,1,1,1,0,0.323943661971831,positive,False,True,True,False,False,False,False,True
+Hypothyroidism,1,1,1,0,0.323943661971831,positive,True,False,True,False,False,True,False,False
+Hypothyroidism,1,1,1,0,0.323943661971831,positive,True,False,True,False,False,True,False,False
+Kidney Disease,1,0,1,0,0.323943661971831,positive,True,False,True,False,False,False,True,False
+Pneumonia,0,1,1,1,0.3380281690140845,positive,True,False,True,False,False,False,False,True
+Allergic Rhinitis,0,1,1,0,0.36619718309859156,negative,False,True,True,False,False,False,False,True
+Autism Spectrum Disorder (ASD),0,0,1,0,0.36619718309859156,negative,False,True,False,False,True,False,False,True
+Crohn's Disease,1,0,1,0,0.36619718309859156,negative,False,True,True,False,False,False,False,True
+Hepatitis,1,0,1,0,0.36619718309859156,negative,True,False,True,False,False,True,False,False
+Hepatitis,1,0,1,0,0.36619718309859156,negative,True,False,True,False,False,True,False,False
+Hyperglycemia,0,0,1,0,0.36619718309859156,negative,False,True,False,False,True,False,False,True
+Kidney Cancer,0,1,1,1,0.36619718309859156,negative,False,True,False,False,True,False,True,False
+Kidney Disease,1,1,0,0,0.36619718309859156,negative,False,True,False,False,True,True,False,False
+Melanoma,1,0,1,0,0.36619718309859156,negative,False,True,True,False,False,False,False,True
+Migraine,0,0,0,0,0.36619718309859156,negative,True,False,False,True,False,False,False,True
+Ovarian Cancer,0,0,1,0,0.36619718309859156,negative,False,True,False,False,True,False,False,True
+Pancreatitis,0,1,1,1,0.36619718309859156,negative,False,True,False,False,True,False,True,False
+Rheumatoid Arthritis,1,0,0,0,0.36619718309859156,negative,False,True,False,False,True,False,False,True
+Stroke,0,0,1,0,0.36619718309859156,negative,False,True,False,False,True,False,False,True
+Turner Syndrome,0,0,1,0,0.36619718309859156,negative,False,True,True,False,False,True,False,False
+Turner Syndrome,0,0,1,0,0.36619718309859156,negative,False,True,True,False,False,True,False,False
+Urinary Tract Infection,0,0,0,0,0.36619718309859156,negative,True,False,False,True,False,False,False,True
+Zika Virus,0,1,1,0,0.36619718309859156,negative,True,False,True,False,False,True,False,False
+Zika Virus,0,1,1,0,0.36619718309859156,negative,True,False,True,False,False,True,False,False
+Allergic Rhinitis,1,1,1,0,0.36619718309859156,positive,False,True,True,False,False,False,False,True
+Anxiety Disorders,1,1,1,0,0.36619718309859156,positive,False,True,True,False,False,False,False,True
+Asthma,1,1,0,1,0.36619718309859156,positive,False,True,False,False,True,False,False,True
+Asthma,1,1,0,1,0.36619718309859156,positive,False,True,False,False,True,False,False,True
+Cataracts,0,0,1,0,0.36619718309859156,positive,True,False,False,False,True,True,False,False
+Crohn's Disease,0,0,1,0,0.36619718309859156,positive,True,False,True,False,False,True,False,False
+Crohn's Disease,1,1,1,0,0.36619718309859156,positive,True,False,True,False,False,True,False,False
+Depression,0,0,1,0,0.36619718309859156,positive,True,False,True,False,False,True,False,False
+Diabetes,1,0,1,0,0.36619718309859156,positive,True,False,True,False,False,True,False,False
+Diabetes,0,1,1,0,0.36619718309859156,positive,False,True,False,False,True,True,False,False
+Hypertension,1,0,1,0,0.36619718309859156,positive,False,True,False,False,True,True,False,False
+Hypothyroidism,0,0,1,0,0.36619718309859156,positive,True,False,True,False,False,True,False,False
+Liver Disease,1,1,1,0,0.36619718309859156,positive,True,False,False,False,True,True,False,False
+Multiple Sclerosis,1,0,0,0,0.36619718309859156,positive,True,False,True,False,False,True,False,False
+Multiple Sclerosis,1,0,0,0,0.36619718309859156,positive,True,False,True,False,False,True,False,False
+Osteoarthritis,1,0,1,1,0.36619718309859156,positive,False,True,True,False,False,False,False,True
+Osteoporosis,1,1,1,0,0.36619718309859156,positive,True,False,False,False,True,True,False,False
+Pneumocystis Pneumonia (PCP),1,1,1,0,0.36619718309859156,positive,True,False,True,False,False,True,False,False
+Pneumonia,1,1,1,1,0.36619718309859156,positive,False,True,True,False,False,True,False,False
+Scoliosis,0,0,0,0,0.36619718309859156,positive,True,False,True,False,False,True,False,False
+Sickle Cell Anemia,0,0,1,0,0.36619718309859156,positive,True,False,False,False,True,False,False,True
+Tetanus,0,0,1,0,0.36619718309859156,positive,False,True,False,False,True,True,False,False
+Tetanus,0,0,1,0,0.36619718309859156,positive,False,True,False,False,True,True,False,False
+Hypertension,0,0,0,0,0.4084507042253521,negative,True,False,False,True,False,True,False,False
+Hypothyroidism,0,0,1,0,0.4084507042253521,negative,False,True,False,False,True,True,False,False
+Hypothyroidism,0,0,1,0,0.4084507042253521,negative,False,True,False,False,True,True,False,False
+Allergic Rhinitis,1,0,0,0,0.43661971830985913,negative,False,True,True,False,False,True,False,False
+Anemia,0,0,1,0,0.43661971830985913,negative,False,True,False,False,True,False,False,True
+Anxiety Disorders,0,0,1,0,0.43661971830985913,negative,False,True,False,False,True,False,False,True
+Cholera,1,0,1,1,0.43661971830985913,negative,True,False,True,False,False,True,False,False
+Cholera,1,0,1,1,0.43661971830985913,negative,True,False,True,False,False,True,False,False
+Crohn's Disease,1,1,1,0,0.43661971830985913,negative,False,True,False,False,True,True,False,False
+Crohn's Disease,0,0,1,0,0.43661971830985913,negative,False,True,False,False,True,True,False,False
+Depression,0,1,1,0,0.43661971830985913,negative,True,False,False,True,False,False,True,False
+Diabetes,0,1,0,0,0.43661971830985913,negative,False,True,False,False,True,True,False,False
+Endometriosis,1,0,0,0,0.43661971830985913,negative,False,True,True,False,False,False,False,True
+Hypertension,0,1,0,0,0.43661971830985913,negative,True,False,False,False,True,False,True,False
+Hypothyroidism,1,1,1,0,0.43661971830985913,negative,False,True,False,False,True,True,False,False
+Kidney Cancer,0,1,0,0,0.43661971830985913,negative,False,True,False,True,False,True,False,False
+Kidney Disease,0,1,0,1,0.43661971830985913,negative,False,True,False,False,True,False,False,True
+Pancreatitis,0,1,0,0,0.43661971830985913,negative,False,True,False,True,False,True,False,False
+Rheumatoid Arthritis,0,1,0,0,0.43661971830985913,negative,True,False,False,True,False,False,False,True
+Sepsis,1,1,1,0,0.43661971830985913,negative,False,True,False,False,True,False,False,True
+Sleep Apnea,1,0,1,1,0.43661971830985913,negative,False,True,True,False,False,True,False,False
+Urinary Tract Infection,1,1,0,1,0.43661971830985913,negative,False,True,True,False,False,False,False,True
+Asthma,1,1,1,1,0.43661971830985913,positive,True,False,False,False,True,True,False,False
+Bronchitis,1,1,1,1,0.43661971830985913,positive,False,True,True,False,False,True,False,False
+Down Syndrome,0,0,1,0,0.43661971830985913,positive,True,False,True,False,False,True,False,False
+Ebola Virus,1,1,1,1,0.43661971830985913,positive,False,True,False,False,True,False,False,True
+Ebola Virus,1,1,1,1,0.43661971830985913,positive,False,True,False,False,True,False,False,True
+Eczema,0,1,0,0,0.43661971830985913,positive,True,False,True,False,False,True,False,False
+Gastroenteritis,1,1,1,1,0.43661971830985913,positive,True,False,True,False,False,False,False,True
+Klinefelter Syndrome,0,0,1,0,0.43661971830985913,positive,True,False,False,False,True,False,False,True
+Liver Cancer,0,1,1,1,0.43661971830985913,positive,False,True,True,False,False,True,False,False
+Lyme Disease,1,0,0,0,0.43661971830985913,positive,False,True,False,False,True,True,False,False
+Lyme Disease,1,0,0,0,0.43661971830985913,positive,False,True,False,False,True,True,False,False
+Pancreatic Cancer,0,0,1,0,0.43661971830985913,positive,True,False,True,False,False,True,False,False
+Pneumothorax,0,0,1,1,0.43661971830985913,positive,True,False,True,False,False,True,False,False
+Stroke,0,1,1,1,0.43661971830985913,positive,False,True,True,False,False,True,False,False
+Ulcerative Colitis,0,1,1,0,0.43661971830985913,positive,True,False,False,False,True,True,False,False
+Hypertension,1,1,0,0,0.4647887323943662,negative,False,True,False,False,True,False,True,False
+Multiple Sclerosis,0,1,1,0,0.4647887323943662,negative,False,True,False,False,True,False,False,True
+Multiple Sclerosis,0,1,1,0,0.4647887323943662,negative,False,True,False,False,True,False,False,True
+Appendicitis,1,0,1,0,0.5070422535211268,negative,False,True,False,False,True,False,False,True
+Bronchitis,0,0,1,1,0.5070422535211268,negative,False,True,True,False,False,True,False,False
+Bronchitis,1,1,1,1,0.5070422535211268,negative,False,True,True,False,False,False,False,True
+Common Cold,1,0,1,1,0.5070422535211268,negative,False,True,False,False,True,False,True,False
+Diabetes,0,1,0,0,0.5070422535211268,negative,True,False,False,False,True,True,False,False
+Esophageal Cancer,0,0,1,0,0.5070422535211268,negative,False,True,False,False,True,False,False,True
+HIV/AIDS,1,0,0,0,0.5070422535211268,negative,True,False,True,False,False,True,False,False
+HIV/AIDS,1,0,0,0,0.5070422535211268,negative,True,False,True,False,False,True,False,False
+Hypertension,0,1,0,0,0.5070422535211268,negative,True,False,False,False,True,False,True,False
+Liver Disease,0,1,1,0,0.5070422535211268,negative,False,True,True,False,False,False,True,False
+Marfan Syndrome,0,0,1,0,0.5070422535211268,negative,False,True,True,False,False,True,False,False
+Migraine,0,1,1,1,0.5070422535211268,negative,True,False,False,False,True,False,True,False
+Osteoporosis,0,0,1,0,0.5070422535211268,negative,False,True,True,False,False,False,False,True
+Parkinson's Disease,0,0,1,0,0.5070422535211268,negative,True,False,False,False,True,False,True,False
+Parkinson's Disease,0,0,1,0,0.5070422535211268,negative,True,False,False,False,True,False,True,False
+Anxiety Disorders,1,1,0,0,0.5070422535211268,positive,True,False,False,False,True,False,True,False
+Coronary Artery Disease,0,0,1,0,0.5070422535211268,positive,True,False,False,False,True,False,False,True
+Coronary Artery Disease,0,0,1,0,0.5070422535211268,positive,True,False,False,False,True,False,False,True
+Hemorrhoids,0,0,0,0,0.5070422535211268,positive,True,False,True,False,False,True,False,False
+Hypertension,1,0,1,0,0.5070422535211268,positive,False,True,True,False,False,False,False,True
+Hypothyroidism,0,0,1,0,0.5070422535211268,positive,True,False,True,False,False,True,False,False
+Osteoarthritis,1,1,0,0,0.5070422535211268,positive,True,False,True,False,False,True,False,False
+Osteoporosis,1,0,1,1,0.5070422535211268,positive,False,True,True,False,False,False,True,False
+Osteoporosis,0,1,1,0,0.5070422535211268,positive,True,False,False,False,True,False,False,True
+Osteoporosis,1,0,1,0,0.5070422535211268,positive,True,False,False,False,True,False,False,True
+Osteoporosis,1,0,1,0,0.5070422535211268,positive,True,False,False,False,True,False,False,True
+Polycystic Ovary Syndrome (PCOS),1,1,0,0,0.5070422535211268,positive,True,False,False,False,True,False,False,True
+Systemic Lupus Erythematosus...,0,1,1,0,0.5070422535211268,positive,True,False,True,False,False,True,False,False
+Typhoid Fever,0,1,0,0,0.5070422535211268,positive,False,True,False,False,True,False,True,False
+Typhoid Fever,0,1,0,0,0.5070422535211268,positive,False,True,False,False,True,False,True,False
+Influenza,1,1,1,1,0.5211267605633803,positive,False,True,True,False,False,True,False,False
+Pneumonia,1,1,0,1,0.5352112676056338,negative,False,True,False,False,True,True,False,False
+Breast Cancer,0,0,1,0,0.5774647887323944,negative,False,True,True,False,False,True,False,False
+Coronary Artery Disease,1,1,0,0,0.5774647887323944,negative,False,True,True,False,False,True,False,False
+Coronary Artery Disease,1,1,0,0,0.5774647887323944,negative,False,True,True,False,False,True,False,False
+Hyperthyroidism,0,0,1,0,0.5774647887323944,negative,False,True,False,False,True,False,False,True
+Measles,1,1,0,0,0.5774647887323944,negative,True,False,True,False,False,False,False,True
+Measles,1,1,0,0,0.5774647887323944,negative,True,False,True,False,False,False,False,True
+Osteoarthritis,0,1,0,1,0.5774647887323944,negative,True,False,False,False,True,False,False,True
+Osteomyelitis,0,0,1,0,0.5774647887323944,negative,False,True,False,False,True,False,False,True
+Osteoporosis,1,0,0,0,0.5774647887323944,negative,False,True,True,False,False,True,False,False
+Osteoporosis,0,1,0,0,0.5774647887323944,negative,False,True,True,False,False,True,False,False
+Osteoporosis,0,1,0,0,0.5774647887323944,negative,False,True,True,False,False,True,False,False
+Polio,1,1,1,0,0.5774647887323944,negative,False,True,False,False,True,False,False,True
+Asthma,1,1,1,1,0.5774647887323944,positive,True,False,True,False,False,True,False,False
+Chronic Kidney Disease,0,0,1,0,0.5774647887323944,positive,True,False,False,False,True,True,False,False
+Hemophilia,0,0,1,0,0.5774647887323944,positive,True,False,False,False,True,False,False,True
+Hepatitis B,0,1,1,0,0.5774647887323944,positive,False,True,False,False,True,False,True,False
+Hepatitis B,0,1,1,0,0.5774647887323944,positive,False,True,False,False,True,False,True,False
+Hypertension,0,0,1,0,0.5774647887323944,positive,True,False,True,False,False,False,False,True
+Hypertension,1,0,1,0,0.5774647887323944,positive,False,True,True,False,False,False,False,True
+Hypertension,0,0,0,0,0.5774647887323944,positive,True,False,True,False,False,True,False,False
+Kidney Cancer,1,1,1,0,0.5774647887323944,positive,True,False,True,False,False,False,False,True
+Kidney Disease,1,1,1,1,0.5774647887323944,positive,True,False,True,False,False,True,False,False
+Osteoporosis,1,0,1,0,0.5774647887323944,positive,False,True,True,False,False,False,False,True
+Pancreatitis,1,1,1,0,0.5774647887323944,positive,True,False,True,False,False,False,False,True
+Parkinson's Disease,1,1,0,0,0.5774647887323944,positive,False,True,True,False,False,False,False,True
+Parkinson's Disease,1,1,0,0,0.5774647887323944,positive,False,True,True,False,False,False,False,True
+Prader-Willi Syndrome,0,0,1,0,0.5774647887323944,positive,True,False,False,False,True,False,False,True
+Rheumatoid Arthritis,0,0,1,0,0.5774647887323944,positive,True,False,True,False,False,True,False,False
+Thyroid Cancer,0,0,1,0,0.5774647887323944,positive,True,False,True,False,False,True,False,False
+Tuberculosis,1,1,1,0,0.5774647887323944,positive,True,False,True,False,False,True,False,False
+Bladder Cancer,0,0,1,0,0.647887323943662,negative,False,True,False,False,True,False,False,True
+Diabetes,0,0,1,0,0.647887323943662,negative,False,True,False,False,True,True,False,False
+Otitis Media (Ear Infection),1,1,1,0,0.647887323943662,negative,False,True,False,False,True,False,False,True
+Stroke,1,0,1,0,0.647887323943662,negative,True,False,True,False,False,False,True,False
+Stroke,1,0,1,0,0.647887323943662,negative,True,False,True,False,False,False,True,False
+Tourette Syndrome,0,0,1,0,0.647887323943662,negative,False,True,True,False,False,True,False,False
+Urinary Tract Infection (UTI),1,0,1,0,0.647887323943662,negative,False,True,True,False,False,False,False,True
+Alzheimer's Disease,0,1,0,0,0.647887323943662,positive,False,True,False,False,True,True,False,False
+Alzheimer's Disease,0,1,0,0,0.647887323943662,positive,False,True,False,False,True,True,False,False
+Alzheimer's Disease,0,0,1,0,0.647887323943662,positive,True,False,True,False,False,True,False,False
+Bronchitis,1,0,1,1,0.647887323943662,positive,False,True,True,False,False,True,False,False
+Chronic Obstructive Pulmonary Disease (COPD),1,0,1,1,0.647887323943662,positive,True,False,True,False,False,True,False,False
+Chronic Obstructive Pulmonary Disease (COPD),1,0,1,1,0.647887323943662,positive,True,False,True,False,False,True,False,False
+Dementia,0,0,1,0,0.647887323943662,positive,True,False,True,False,False,True,False,False
+Diabetes,1,1,1,0,0.647887323943662,positive,True,False,False,False,True,True,False,False
+Diverticulitis,0,0,1,0,0.647887323943662,positive,True,False,True,False,False,True,False,False
+Liver Cancer,1,1,1,0,0.647887323943662,positive,True,False,True,False,False,True,False,False
+Lung Cancer,1,1,1,0,0.647887323943662,positive,True,False,True,False,False,True,False,False
+Lung Cancer,1,0,1,0,0.647887323943662,positive,True,False,False,False,True,True,False,False
+Mumps,0,0,1,0,0.647887323943662,positive,False,True,False,False,True,True,False,False
+Mumps,0,0,1,0,0.647887323943662,positive,False,True,False,False,True,True,False,False
+Osteoporosis,0,1,1,0,0.647887323943662,positive,True,False,True,False,False,True,False,False
+Stroke,1,1,1,0,0.647887323943662,positive,True,False,True,False,False,True,False,False
+Alzheimer's Disease,1,0,1,0,0.7183098591549295,negative,True,False,True,False,False,False,False,True
+Alzheimer's Disease,1,0,1,0,0.7183098591549295,negative,True,False,True,False,False,False,False,True
+Cholecystitis,0,0,1,0,0.7183098591549295,negative,False,True,False,False,True,False,False,True
+Chronic Obstructive Pulmonary Disease (COPD),0,1,1,1,0.7183098591549295,negative,False,True,False,False,True,True,False,False
+Chronic Obstructive Pulmonary Disease (COPD),0,1,1,1,0.7183098591549295,negative,False,True,False,False,True,True,False,False
+Osteoporosis,1,0,0,0,0.7183098591549295,negative,False,True,False,False,True,False,False,True
+Parkinson's Disease,0,0,1,0,0.7183098591549295,negative,False,True,False,False,True,False,False,True
+Prostate Cancer,1,1,0,0,0.7183098591549295,negative,False,True,True,False,False,False,False,True
+Schizophrenia,0,1,1,0,0.7183098591549295,negative,False,True,False,False,True,False,False,True
+Gout,1,0,1,0,0.7183098591549295,positive,True,False,False,False,True,True,False,False
+Migraine,0,0,1,0,0.7183098591549295,positive,True,False,False,False,True,False,False,True
+Stroke,0,1,0,0,0.7183098591549295,positive,False,True,False,False,True,True,False,False
+Stroke,0,1,0,0,0.7183098591549295,positive,False,True,False,False,True,True,False,False
+Testicular Cancer,0,0,1,0,0.7183098591549295,positive,True,False,True,False,False,True,False,False
+Tonsillitis,1,1,1,0,0.7183098591549295,positive,True,False,True,False,False,True,False,False
+Williams Syndrome,0,0,1,0,0.7183098591549295,positive,True,False,False,False,True,False,False,True
+Stroke,1,0,1,0,0.8591549295774648,positive,True,False,True,False,False,True,False,False
+Stroke,1,0,1,0,0.8591549295774648,positive,True,False,True,False,False,True,False,False
+Stroke,1,0,1,0,0.9295774647887325,positive,False,True,True,False,False,True,False,False
+Stroke,1,0,1,0,0.9295774647887325,positive,False,True,True,False,False,True,False,False
+Stroke,1,0,1,0,1.0,positive,True,False,True,False,False,True,False,False
+Stroke,1,0,1,0,1.0,positive,True,False,True,False,False,True,False,False
